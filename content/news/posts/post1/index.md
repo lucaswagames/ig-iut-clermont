@@ -7,3 +7,5 @@ draft = false
 # TEST
 
 Ceci est un test!!
+
+![image test](./img/image1.png)
