@@ -1,27 +1,8 @@
----
-title: "Actualités"
-description: "L'actu de l'IUT par site"
-layout: "news"
++++
+title = 'IUT Informatique graphique'
++++
 
-sections:
-  - title: "Portes Ouvertes"
-    date: "28 Janvier 2023"
-    description: "Journée Portes Ouvertes de l'IUT ..."
 
-  - title: "Salon et Journée Portes-Ouvertes 2023..."
-    date: "19-21 Janvier 2023"
-    description: "Un lieu pour révéler le potentiel créatif..."
+## Lorem Ipsum
 
-# Other metadata like SEO, author, etc., can be added here.
----
-
-# Actualités
-Retrouvez toutes les actualités et les événements à venir de l'IUT.
-
-## Entreprises
-Votre futur collaborateur est déjà chez nous.
-
-- **Stages**: Offres de stages.
-- **Alternance**: Offres de l'alternance.
-- **Partenariats**: Offres sur les partenariats.
-
+Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
