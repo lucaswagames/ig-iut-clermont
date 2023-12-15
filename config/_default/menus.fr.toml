@@ -12,20 +12,22 @@
 
 [[main]]
   name = "Actualités"
-  pageRef = "news"
+  pageRef = "actualites"
   weight = 10
 
 [[main]]
   name = "Formation"
-  pageRef = "education"
+  pageRef = "formation"
   weight = 20
 
 [[main]]
   name = "Le campus"
+  pageRef = "campus"
   weight = 30
 
 [[main]]
   name = "Admission"
+  pageRef = "admission"
   weight = 40
 
 [[subnavigation]]

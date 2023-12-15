@@ -1,6 +1,0 @@
-+++
-title = 'Actualités'
-+++
-
-## Les nouvelle!!
-
