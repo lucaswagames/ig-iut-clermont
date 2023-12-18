@@ -16,19 +16,62 @@
   weight = 10
 
 [[main]]
-  name = "Formation"
-  pageRef = "formation"
-  weight = 20
+  name = "BUT informatique graphique"
+  pageRef = "but_informatique_graphique"
+  weight = 40
 
 [[main]]
-  name = "Le campus"
-  pageRef = "campus"
+  name = "Présentation du dîplome"
+  parent = "BUT informatique graphique"
+  pageRef = "presentation_du_diplome"
+  weight = 40
+
+  [[main]]
+  name = "Que sont-ils devenus ? "
+  parent = "BUT informatique graphique"
+  pageRef = "que_sont_ils_devenus"
+  weight = 40
+
+[[main]]
+  name = "Numérique Responsable"
+  pageRef = "numerique_responsable"
   weight = 30
 
 [[main]]
-  name = "Admission"
-  pageRef = "admission"
+  name = "Vie universitaire"
+  pageRef = "dans_le_campus"
+  weight = 30
+
+  [[main]]
+  name = "Campus au Puy"
+  parent = "Vie universitaire"
+  pageRef = "campus_au_puy "
   weight = 40
+
+    [[main]]
+  name = "Vivre au Puy"
+  parent = "Vie universitaire"
+  pageRef = "vivre_au_puy"
+  weight = 40
+
+    [[main]]
+  name = "Une formation professionnalisante"
+  parent = "Vie universitaire"
+  pageRef = "une_formation_professionnalisante"
+  weight = 40
+
+    [[main]]
+  name = "Échanges universitaires"
+  parent = "Vie universitaire"
+  pageRef = "echanges_universitaires"
+  weight = 40
+
+    [[main]]
+  name = "Modalités d'admissions"
+  parent = "Vie universitaire"
+  pageRef = "modalites_dadmissions"
+  weight = 40  
+
 
 [[subnavigation]]
   name = "IUT"
@@ -47,6 +90,3 @@
   pre = "list"
   url = "https://www.uca.fr/annuaire"
   weight = 30
-
-
-

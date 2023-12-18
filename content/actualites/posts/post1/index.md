@@ -1,6 +1,6 @@
 +++
 title = 'Le média DroidSoft.fr se dote d’une nouvelle application mobile grâce au travail de nos étudiants'
-date = 2023-12-14T15:24:36+01:00
+date = 2023-06-13
 draft = false
 +++
 
@@ -8,7 +8,7 @@ draft = false
 
 Dans le cadre du BUT Informatique Graphique, les étudiants de deuxième année sont tenus de réaliser un projet tutoré sur l’année. Ces projets sont généralement proposés par des entreprises ou peuvent être initiés par les étudiants eux-mêmes.
 
-  
+
 
 Dans cet article, nous vous présentons un projet réalisé sur l’année 2022-2023 par un groupe de quatre étudiants, portant sur le développement d’une application mobile. Celle-ci est à destination d’un média orienté sur les nouvelles technologies du monde d’Android, [DroidSoft.fr](https://droidsoft.fr/). Ce média _tech_ est spécialisé dans l’univers d’Android. Il couvre les dernières innovations en matière de smartphones, tablettes, montres connectées, écouteurs et autres produits de cet écosystème.
 
@@ -22,7 +22,7 @@ En effet, dans un paysage où les applications similaires sont de moins en moins
 
 L’équipe en charge du pojet était composée de : [Eliot Bianchin](https://www.linkedin.com/in/eliot-bianchin/), [Lucas Chalmandrier](https://www.linkedin.com/in/lucas-chalmandrier/), [Quentin Detré](https://www.linkedin.com/in/quentin-detr%C3%A9/) et [Maximilien Herr](https://www.linkedin.com/in/maximilien-herr/). Leur mission consistait à recréer l’application en modernisant son design tout en préservant sa fonctionnalité essentielle : informer et conseiller les lecteurs.
 
-   ![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2023/06/Capture-decran-du-site-internet-de-DroidSoft-2.png)Capture d’écran du site internet du média DroidSoft
+   ![](img/Capture-decran-du-site-internet-de-DroidSoft-2.jpg "Capture d’écran du site internet du média DroidSoft")
 
 ## SÉLECTION DES TECHNOLOGIES POUR LE DÉVELOPPEMENT DE L’APPLICATION
 
@@ -30,7 +30,7 @@ Les projets tutorés ont débuté en novembre 2022, alors que les étudiants n�
 
 Il y avait deux options pour le choix du langage de programmation : Java ou Kotlin. Java est le langage le plus ancien des deux et est largement connu. En revanche, Kotlin est mis en avant par Google, qui détient Android. Il est considéré comme un langage moderne et dans l’air du temps. Par conséquent, Kotlin a été retenu pour le développement de l’application.
 
-   ![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2023/06/Capture-decran-resultat-final.png)Captures d’écran du résultat de l’application développée par les étudiants du département informatique graphique
+   ![](img/Capture-decran-resultat-final.jpg "Captures d’écran du résultat de l’application développée par les étudiants du département informatique graphique")
 
 ## LES QUATRE GRANDES ÉTAPES DU DÉVELOPPEMENT DE L’APPLICATION
 
@@ -51,7 +51,7 @@ L’équipe s’est réparti les missions comme suit :
 
 Au total, l’équipe a travaillé pendant près de 700 heures pour concevoir et développer l’application, en respectant les exigences du client et les délais fixés par l’Université.
 
-   ![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2023/06/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin-700x394.jpg)Équipe ayant réalisé le développement de l’application pour le média DroidSoft. De gauche à droite : Quentin, Lucas, Eliot et Maximilien.
+   ![](img/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin.jpg "Équipe ayant réalisé le développement de l’application pour le média DroidSoft. De gauche à droite : Quentin, Lucas, Eliot et Maximilien.")
 
 ## VERS UNE MÉTHODOLOGIE PROFESSIONNELLE : DÉVELOPPEMENT COLLABORATIF ET CONTRÔLE DE VERSION AVEC GIT
 
@@ -71,7 +71,7 @@ En effet, la plupart des smartphones aujourd’hui sont équipés d’un écran 
 
 C’est l’exploitation de cette technologie « plus verte », par la création d’un thème sombre utilisant principalement la couleur noire, qui a été proposée par les étudiants, et retenue par le client.
 
-![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2023/06/Design-OLED-application-DroidSoft-700x525.png)
+![](img/Design-OLED-application-DroidSoft.jpg)
 
 ## UNE APPLICATION FONCTIONNELLE PRÊTE À ÊTRE DÉPLOYÉE ET UTILISÉE PAR DROIDSOFT
 

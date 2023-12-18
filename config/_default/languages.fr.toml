@@ -1,7 +1,7 @@
 languageCode = "fr"
 languageName = "Français"
 weight = 1
-title = "IUT Informatique graphique - Le Puy-en-Velay"
+title = "Accueil"
 
 [params]
   displayName = "FR"
