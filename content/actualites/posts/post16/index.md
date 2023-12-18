@@ -2,7 +2,6 @@
 title = ' Nos étudiants apprennent aussi à « sketchnoter »'
 date = 2021-03-16
 draft = false
-tags = ['saucisson']
 +++
 
   
@@ -44,22 +43,59 @@ Pour se lancer, il suffit de respecter les principales étapes :
 
 Vous trouverez ci-dessous quelques exemples de planches de sketchnote réalisées par nos étudiants de première année.
 
+
+
 {{< gallery >}}
   <figure class="grid-w50">
-    <img src="img/1.-Representation-graphique-dune-courbe-parametree-Pierre-Vandel-min-768x367%20(1).jpg"/>
-    <figcaption><em>La courbe paramétrée par Pierre Vandel</em></figcaption>
-  </figure>
+    <picture>
+      <!-- AVIF -->
+      <source type="image/avif" srcset="img/1.-Representation-graphique-dune-courbe-parametree-Pierre-Vandel-min-768x367.avif">
+      <!-- WebP -->
+      <source type="image/webp" srcset="img/1.-Representation-graphique-dune-courbe-parametree-Pierre-Vandel-min-768x367.webp">
+      <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+      <img src="img/1.-Representation-graphique-dune-courbe-parametree-Pierre-Vandel-min-768x367%20(1).jpg" loading="lazy">
+    </picture>
+    <figcaption><em>La courbe paramétrée par Pierre Vandel
+    </em></figcaption>
+  </figure> 
+
   <figure class="grid-w50">
-    <img src="img/5.Le-PTUT-Cyrielle-Bracher-min-768x576%20(1).jpg"/>
-    <figcaption><em>Le projet tuteuré par Cyrielle Bracher</em></figcaption>
-  </figure>
-    <figure class="grid-w50">
-    <img src="img/4.La-lettre-de-motivation-Alban-Bernard-min-768x543.jpg"/>
-    <figcaption><em>La lettre de Motivation par Alban Bernard</em></figcaption>
-  </figure>
+    <picture>
+      <!-- AVIF -->
+      <source type="image/avif" srcset="img/5.Le-PTUT-Cyrielle-Bracher-min-768x576.avif">
+      <!-- WebP -->
+      <source type="image/webp" srcset="img/5.Le-PTUT-Cyrielle-Bracher-min-768x576.webp">
+      <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+      <img src="img/5.Le-PTUT-Cyrielle-Bracher-min-768x576%20(1).jpg" loading="lazy">
+    </picture>
+    <figcaption><em>Le projet tuteuré par Cyrielle Bracher
+    </em></figcaption>
+  </figure> 
+
   <figure class="grid-w50">
-    <img src="img/3.Communication-verbale-et-non-verbale-Marie-Morgenthaler-min-768x543.jpg"/>
-    <figcaption><em>Communication verbale et non-verbale par Marie Morgenthaler</em></figcaption>
-  </figure>
+    <picture>
+      <!-- AVIF -->
+      <source type="image/avif" srcset="img/4.La-lettre-de-motivation-Alban-Bernard-min-768x543.avif">
+      <!-- WebP -->
+      <source type="image/webp" srcset="img/4.La-lettre-de-motivation-Alban-Bernard-min-768x543.webp">
+      <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+      <img src="img/4.La-lettre-de-motivation-Alban-Bernard-min-768x543.jpg" loading="lazy">
+    </picture>
+    <figcaption><em>La lettre de Motivation par Alban Bernard
+    </em></figcaption>
+  </figure> 
+
+  <figure class="grid-w50">
+    <picture>
+      <!-- AVIF -->
+      <source type="image/avif" srcset="img/3.Communication-verbale-et-non-verbale-Marie-Morgenthaler-min-768x543.avif">
+      <!-- WebP -->
+      <source type="image/webp" srcset="img/3.Communication-verbale-et-non-verbale-Marie-Morgenthaler-min-768x543.webp">
+      <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+      <img src="img/3.Communication-verbale-et-non-verbale-Marie-Morgenthaler-min-768x543.jpg" loading="lazy">
+    </picture>
+    <figcaption><em>Communication verbale et non-verbale par Marie Morgenthaler
+    </em></figcaption>
+  </figure> 
 {{< /gallery >}}
 

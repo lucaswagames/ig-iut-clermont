@@ -2,7 +2,6 @@
 title = 'Abeille Safe, un logiciel de ruche connectée'
 date = 2021-04-21
 draft = false
-tags = ['saucisson']
 +++
 
   
@@ -20,7 +19,19 @@ Il se questionne : « **Et si, il existait un outil qui puisse m’informer à
 
 Le département informatique du Puy en Velay attache une importance particulière à mettre les compétences de ses étudiants au profit du développement de l’activité locale. **Adélaïde, sensible aux innovations associant le numérique et l’environnement, est séduite par cette idée de ruche connectée.** Elle mobilise une équipe d’étudiants pour travailler à son déploiement. C’est ainsi que Claire, Julian et Baptiste se lancent dans le développement d’une application destinée à synthétiser les données concernant l’activité et la santé des abeilles. Ce travail est effectué dans le cadre de leur projet tutoré1.
 
-   ![](img/abeille-safe-Julian-Baptiste-Claire-768x432.jpg "_De gauche à droite, Claire, Julian et Baptiste lors de leur soutenance du 2 avril 2021 à l’IUT du Puy-en-Velay_")
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/abeille-safe-Julian-Baptiste-Claire-768x432.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/abeille-safe-Julian-Baptiste-Claire-768x432.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/abeille-safe-Julian-Baptiste-Claire-768x432.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>De gauche à droite, Claire, Julian et Baptiste lors de leur soutenance du 2 avril 2021 à l’IUT du Puy-en-Velay
+</em></figcaption>
+</figure> 
 
 ### Abeille Safe, c’est quoi exactement ?
 
@@ -30,8 +41,11 @@ Si cet outil rend possible la visualisation précise de la santé de ses abeille
 
 **Claire, Julian et Baptiste ont relevé le défi haut la main en proposant un logiciel répondant en tout point au cahier des charges**. Vous pouvez retrouver la description du projet sur leur [site web](https://julmg.alwaysdata.net/abeillesafe/) et découvrir sa présentation vidéo ci-dessous.
 
-https://www.youtube.com/watch?v=ubnqp1hLO50&embeds_referring_euri=https%3A%2F%2Fig.iut-clermont.fr%2F&source_ve_path=MjM4NTE&feature=emb_title
   
+<video width="640" height="360" controls preload="none" poster="video/mqdefault.jpg">
+  <source src="video/AbeilleSafe.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
 
 ### Une touche d’IA pour parfaire le projet
 
@@ -39,7 +53,17 @@ https://www.youtube.com/watch?v=ubnqp1hLO50&embeds_referring_euri=https%3A%2F%2F
 
 La partie technique consiste en la **mise en place de capteurs** capables de récolter les données de la ruche **et d’une intelligence artificielle** capable de les analyser. À terme, cette ruche connectée pourra mesurer et analyser la pollution, le changement climatique, l’apparition ou le développement de nouveaux prédateurs ou parasites. La société ponote est d’ailleurs à la recherche d’un ingénieur spécialisé en électronique et dans les objets connectés qu’elle souhaite dédier intégralement à ce projet.
 
-![](img/abeille-safe-768x432.jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/abeille-safe-768x432.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/abeille-safe-768x432.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/abeille-safe-768x432.jpg" loading="lazy">
+  </picture>
+</figure> 
 
 L’agence digitale Open Studio et l’UCA l’affirment : plus il y aura de ruches connectées et plus les données récoltées seront pertinentes.
 

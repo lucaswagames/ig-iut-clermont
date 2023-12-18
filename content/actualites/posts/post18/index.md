@@ -9,7 +9,17 @@ draft = false
 
 L’offre de formation des IUT évolue vers **le Bachelor Universitaire de Technologie qui devient le nouveau diplôme professionnalisant.**
 
-![](img/129266730_1760761570741520_1917207642655678900_o-768x404%20(1).jpg)
+
+  <figure>
+    <picture>
+      <!-- AVIF -->
+      <source type="image/avif" srcset="img/129266730_1760761570741520_1917207642655678900_o-768x404.avif">
+      <!-- WebP -->
+      <source type="image/webp" srcset="img/129266730_1760761570741520_1917207642655678900_o-768x404.webp">
+      <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+      <img src="img/129266730_1760761570741520_1917207642655678900_o-768x404%20(1).jpg" loading="lazy">
+    </picture>
+  </figure> 
 
 Le diplôme sera dispensé en trois ans au lieu de deux. Les étudiants intégreront donc un bachelor, toujours **public et gratuit.**
 
@@ -35,6 +45,9 @@ L’enseignement délivré par les IUT basée sur la mise en pratique et la prof
 
 – La formation est reconnue et les compétences acquises sont recherchées par les entreprises.
 
-  https://www.youtube.com/watch?v=5xbeKHi0txk&t=1s
+<video width="640" height="360" controls preload="none" poster="video/mqdefault.jpg">
+  <source src="video/BUTckoi .mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
 
 Plus d’informations sur le BUT : [https://but.iut.fr](https://but.iut.fr/)

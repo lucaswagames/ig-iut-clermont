@@ -2,14 +2,25 @@
 title = ' « Les monstres, c’est la vie. »'
 date = 2021-04-22
 draft = false
-tags = ['saucisson']
 +++
 
   
 
 _Nils Lemonnier, animateur 3D et ancien étudiant du département informatique graphique de l’IUT du Puy-en-Velay revient sur son parcours dans une interview. Découvrez le profil de ce passionné d’animation et d’univers monstrueux._
 
-   ![](img/Nils-Lemonnier-768x415%20(1).jpg "_À gauche Nils en préparation d’une capture de mouvements pour le court métrage Time’s Down._")
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Nils-Lemonnier-768x415%20(1).avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Nils-Lemonnier-768x415.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Nils-Lemonnier-768x415%20(1).jpg" loading="lazy">
+  </picture>
+  <figcaption><em>À gauche Nils en préparation d’une capture de mouvements pour le court métrage Time’s Down.
+</em></figcaption>
+</figure> 
 
 **Peux-tu nous décrire en quelques lignes le métier que tu exerces actuellement ?**
 
@@ -21,7 +32,12 @@ Pour faire simple, mon travail consiste à faire bouger, à donner vie à des pe
 
 « Ce que j’aime c’est concevoir et animer des monstres. Une fois le projet abouti, j’ai envie que ça me fasse peur à moi-même. Comme se chatouiller soi-même, c’est très dur. Il faut allier la technique à la créativité. Cela nécessite de la patience et de la persévérance : deux secondes d’animation correspondent à environ deux semaines de travail. »
 
-  https://vimeo.com/452730344
+<video width="640" height="360" controls preload="none" poster="video/poster.jpg">
+  <source src="video/Demoreel.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
+
+
 
 **Tu es passé sur les bancs de l’IUT du Puy-en-Velay de 2012 à 2015, pourquoi avoir choisi le parcours informatique graphique ?**
 
@@ -34,7 +50,11 @@ Malgré mon manque d’enthousiasme pour la prog, j’ai persévéré jusqu’à
 Mon cours préféré était évidemment la 3D. Je prenais beaucoup de plaisir lors des TPs de conception de jeux vidéo. J’avais une tablette pour dessiner des _assets_, c’est-à-dire les éléments du jeu. Je me souviens très bien des nuits blanches passées avec les potes à dessiner, et à coder sous Unity. »
 
   
-https://www.youtube.com/watch?v=AbZXLvIa_LE
+
+<video width="640" height="360" controls preload="none" poster="video/mqdefault.jpg">
+  <source src="video/Margool.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
 
 _Jeu vidéo « Margool » créé dans le cadre du DUT Informatique graphique, 2013_
 
@@ -42,7 +62,19 @@ _Jeu vidéo « Margool » créé dans le cadre du DUT Informatique graphique, 20
 
 « Sans hésiter, les soirées au Rob. Le Robinson, c’est un bar au cœur du centre du Puy qui a accueilli notre joyeuse troupe d’étudiants un bon nombre de fois pour nos moments de décompression après les cours. »
 
-   ![](img/bar-le-robinson%20(1).jpg "_Bar Le Robinson au centre du Puy-en-Velay_")
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/bar-le-robinson.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/bar-le-robinson.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/bar-le-robinson%20(1).jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Bar Le Robinson au centre du Puy-en-Velay
+</em></figcaption>
+</figure> 
 
 « Un souvenir précis à vous partager ? Je choisirais la journée d’intégration. Un étudiant de deuxième année nous avait orchestré un faux cours de programmation en assembleur. Il se faisait passer pour le professeur exécrable et sévère qui exigeait de nous que nous soyons très performants. Alors que nous nous apprêtions à faire une interrogation surprise catastrophique sur des notions à peine comprises, la supercherie a été levée. Il s’agissait d’une blague. Nous étions tous conviés à découvrir l’IUT et les alentours du Puy par des activités ludiques. »
 
@@ -53,7 +85,10 @@ _Jeu vidéo « Margool » créé dans le cadre du DUT Informatique graphique, 20
 Dans la promo d’ArtFX nous étions deux à savoir coder, tous deux issus du département informatique graphique du Puy-en-Velay. Cela a été un avantage considérable. Encore aujourd’hui, mes compétences en programmation sont un véritable atout pour le métier que j’exerce. Cette compétence est particulièrement appréciée. »
 
   
-https://www.youtube.com/watch?v=aXEogqoP3uA&t=47s
+<video width="640" height="360" controls preload="none" poster="video/mqdefault2.jpg">
+  <source src="video/__ ARTFX OFFICIAL __ TIME'S DOWN MAKING-OF.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
 
 _Making-of du court métrage Time’s Down réalisé dans le cadre de ses études à l’école ArtFX, 2020_
 
