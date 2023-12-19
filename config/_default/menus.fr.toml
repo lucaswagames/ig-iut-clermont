@@ -16,77 +16,106 @@
   weight = 10
 
 [[main]]
-  name = "BUT informatique graphique"
+  name = "BUT"
   pageRef = "but_informatique_graphique"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Présentation du dîplome"
-  parent = "BUT informatique graphique"
+  parent = "BUT"
   pageRef = "presentation_du_diplome"
-  weight = 40
+  weight = 10
 
-  [[main]]
+[[main]]
+  name = "Débouchés"
+  parent = "BUT"
+  pageRef = "debouches"
+  weight = 20
+
+[[main]]
   name = "Que sont-ils devenus ? "
-  parent = "BUT informatique graphique"
-  pageRef = "que_sont_ils_devenus"
-  weight = 40
+  parent = "BUT"
+  weight = 30
+
+
 
 [[main]]
-  name = "Numérique Responsable"
-  pageRef = "numerique_responsable"
+  name = "NR"
+  pageRef = "nr"
+  weight = 30
+
+
+
+[[main]]
+  name = "Équipe enseignate"
+  weight = 40
+
+
+
+[[main]]
+  name = "Nos ressources"
+  weight = 50
+
+[[main]]
+  name = "Loceaux"
+  parent = "Nos ressources"
+  weight = 10
+
+[[main]]
+  name = "Matériel"
+  parent = "Nos ressources"
+  weight = 20
+
+[[main]]
+  name = "Humain"
+  parent = "Nos ressources"
+  weight = 30
+
+
+
+[[main]]
+  name = "Le Puy"
+  weight = 60
+
+[[main]]
+  name = "Logements / Coût de la vie"
+  parent = "Le Puy"
+  weight = 10
+
+[[main]]
+  name = "Activités sportives"
+  parent = "Le Puy"
+  weight = 20
+
+[[main]]
+  name = "Activités culturelles"
+  parent = "Le Puy"
   weight = 30
 
 [[main]]
-  name = "Vie universitaire"
-  pageRef = "dans_le_campus"
-  weight = 30
-
-  [[main]]
-  name = "Campus au Puy"
-  parent = "Vie universitaire"
-  pageRef = "campus_au_puy "
+  name = "Vie étudiante"
+  parent = "Le Puy"
   weight = 40
 
-    [[main]]
-  name = "Vivre au Puy"
-  parent = "Vie universitaire"
-  pageRef = "vivre_au_puy"
-  weight = 40
-
-    [[main]]
-  name = "Une formation professionnalisante"
-  parent = "Vie universitaire"
-  pageRef = "une_formation_professionnalisante"
-  weight = 40
-
-    [[main]]
-  name = "Échanges universitaires"
-  parent = "Vie universitaire"
-  pageRef = "echanges_universitaires"
-  weight = 40
-
-    [[main]]
-  name = "Modalités d'admissions"
-  parent = "Vie universitaire"
-  pageRef = "modalites_dadmissions"
-  weight = 40  
 
 
 [[subnavigation]]
-  name = "IUT"
+  name = "Une formation professionnalisante"
   pre = "graduation-cap"
-  url = "https://iut.uca.fr/"
   weight = 10
 
 [[subnavigation]]
-  name = "ENT"
+  name = "Échanges universitaires"
   pre = "globe"
-  url = "https://ent.uca.fr/"
   weight = 20
 
 [[subnavigation]]
-  name = "Annuaire"
-  pre = "list"
-  url = "https://www.uca.fr/annuaire"
+  name = "Modalités d'admissions"
+  pre = "pencil"
+  pageRef = "admission"
   weight = 30
+
+[[subnavigation]]
+  name = "Les réalisations de nos étudiants"
+  pre = "code"
+  weight = 40

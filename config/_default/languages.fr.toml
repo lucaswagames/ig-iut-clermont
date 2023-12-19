@@ -1,14 +1,14 @@
 languageCode = "fr"
 languageName = "Français"
 weight = 1
-title = "Accueil"
+title = "IUT Informatique Graphique"
 
 [params]
   displayName = "FR"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
