@@ -1,5 +1,7 @@
 +++
 title = 'Admission'
+showDate = false
+showPagination = false
 +++
 
 

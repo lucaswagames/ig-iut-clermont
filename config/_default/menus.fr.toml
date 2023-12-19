@@ -15,46 +15,63 @@
   pageRef = "actualites"
   weight = 10
 
+
+
+[[main]]
+  name = "Numérique responsable"
+  pageRef = "nr"
+  weight = 20
+
+
+
 [[main]]
   name = "BUT"
-  pageRef = "but_informatique_graphique"
-  weight = 20
+  pageRef = "but"
+  weight = 30
+
 
 [[main]]
   name = "Présentation du dîplome"
   parent = "BUT"
-  pageRef = "presentation_du_diplome"
+  pageRef = "diplome"
   weight = 10
+
+[[main]]
+  name = "Formation professionnalisante"
+  parent = "BUT"
+  weight = 20
 
 [[main]]
   name = "Débouchés"
   parent = "BUT"
-  pageRef = "debouches"
-  weight = 20
+  weight = 30
+
+[[main]]
+  name = "Échanges universitaires"
+  parent = "BUT"
+  weight = 40
+
+[[main]]
+  name = "Admission"
+  parent = "BUT"
+  pageRef = "admission"
+  weight = 50
+
+[[main]]
+  name = "Réalisations des étudiants"
+  parent = "BUT"
+  weight = 60
 
 [[main]]
   name = "Que sont-ils devenus ? "
   parent = "BUT"
-  weight = 30
-
-
-
-[[main]]
-  name = "NR"
-  pageRef = "nr"
-  weight = 30
-
-
-
-[[main]]
-  name = "Équipe enseignate"
-  weight = 40
+  weight = 70
 
 
 
 [[main]]
   name = "Nos ressources"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Loceaux"
@@ -75,7 +92,7 @@
 
 [[main]]
   name = "Le Puy"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Logements / Coût de la vie"
@@ -99,23 +116,17 @@
 
 
 
-[[subnavigation]]
-  name = "Une formation professionnalisante"
-  pre = "graduation-cap"
+[[footer]]
+  name = "Contacts"
+  pageRef ="contacts"
   weight = 10
 
-[[subnavigation]]
-  name = "Échanges universitaires"
-  pre = "globe"
+[[footer]]
+  name = "Plan du site"
+  pageRef ="plan_du_site"
   weight = 20
 
-[[subnavigation]]
-  name = "Modalités d'admissions"
-  pre = "pencil"
-  pageRef = "admission"
+[[footer]]
+  name = "Chartes NR"
+  pageRef ="charte_nr"
   weight = 30
-
-[[subnavigation]]
-  name = "Les réalisations de nos étudiants"
-  pre = "code"
-  weight = 40
