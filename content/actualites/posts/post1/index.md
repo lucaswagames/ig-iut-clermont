@@ -22,7 +22,16 @@ En effet, dans un paysage où les applications similaires sont de moins en moins
 
 L’équipe en charge du pojet était composée de : [Eliot Bianchin](https://www.linkedin.com/in/eliot-bianchin/), [Lucas Chalmandrier](https://www.linkedin.com/in/lucas-chalmandrier/), [Quentin Detré](https://www.linkedin.com/in/quentin-detr%C3%A9/) et [Maximilien Herr](https://www.linkedin.com/in/maximilien-herr/). Leur mission consistait à recréer l’application en modernisant son design tout en préservant sa fonctionnalité essentielle : informer et conseiller les lecteurs.
 
-   ![](img/Capture-decran-du-site-internet-de-DroidSoft-2.jpg "Capture d’écran du site internet du média DroidSoft")
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Capture-decran-du-site-internet-de-DroidSoft-2.avif">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent pas AVIF -->
+    <img src="img/Capture-decran-du-site-internet-de-DroidSoft-2.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Capture d’écran du site internet du média DroidSoft</em></figcaption>
+</figure>
 
 ## SÉLECTION DES TECHNOLOGIES POUR LE DÉVELOPPEMENT DE L’APPLICATION
 
@@ -30,7 +39,17 @@ Les projets tutorés ont débuté en novembre 2022, alors que les étudiants n�
 
 Il y avait deux options pour le choix du langage de programmation : Java ou Kotlin. Java est le langage le plus ancien des deux et est largement connu. En revanche, Kotlin est mis en avant par Google, qui détient Android. Il est considéré comme un langage moderne et dans l’air du temps. Par conséquent, Kotlin a été retenu pour le développement de l’application.
 
-   ![](img/Capture-decran-resultat-final.jpg "Captures d’écran du résultat de l’application développée par les étudiants du département informatique graphique")
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Capture-decran-resultat-final.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Capture-decran-resultat-final.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Capture-decran-resultat-final.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Captures d’écran du résultat de l’application développée par les étudiants du département informatique graphique</em></figcaption>
+</figure>
 
 ## LES QUATRE GRANDES ÉTAPES DU DÉVELOPPEMENT DE L’APPLICATION
 
@@ -51,7 +70,17 @@ L’équipe s’est réparti les missions comme suit :
 
 Au total, l’équipe a travaillé pendant près de 700 heures pour concevoir et développer l’application, en respectant les exigences du client et les délais fixés par l’Université.
 
-   ![](img/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin.jpg "Équipe ayant réalisé le développement de l’application pour le média DroidSoft. De gauche à droite : Quentin, Lucas, Eliot et Maximilien.")
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/equipe-developpement-application-droidsoft-Eliot-Maximilien-Lucas-Quentin.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Équipe ayant réalisé le développement de l’application pour le média DroidSoft. De gauche à droite : Quentin, Lucas, Eliot et Maximilien.</em></figcaption>
+</figure>
 
 ## VERS UNE MÉTHODOLOGIE PROFESSIONNELLE : DÉVELOPPEMENT COLLABORATIF ET CONTRÔLE DE VERSION AVEC GIT
 
@@ -71,7 +100,17 @@ En effet, la plupart des smartphones aujourd’hui sont équipés d’un écran 
 
 C’est l’exploitation de cette technologie « plus verte », par la création d’un thème sombre utilisant principalement la couleur noire, qui a été proposée par les étudiants, et retenue par le client.
 
-![](img/Design-OLED-application-DroidSoft.jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Design-OLED-application-DroidSoft.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Design-OLED-application-DroidSoft.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Design-OLED-application-DroidSoft.jpg" loading="lazy">
+  </picture>
+</figure>
 
 ## UNE APPLICATION FONCTIONNELLE PRÊTE À ÊTRE DÉPLOYÉE ET UTILISÉE PAR DROIDSOFT
 

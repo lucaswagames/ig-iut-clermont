@@ -2,7 +2,6 @@
 title = 'Étudier au Puy-en-Velay : Les incontournables des étudiants'
 date = 2021-08-06
 draft = false
-tags = ['saucisson']
 +++
 
 
@@ -12,13 +11,33 @@ _Rémi, amateur de jeux vidéo en ligne et féru de rando, Alban, amoureux des l
 
 ### Le ravin de Corbœuf, un canyon aux mille couleurs
 
-![](img/Le-ravin-de-corboeuf-IUT-Informatique-Graphique%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Le-ravin-de-corboeuf-IUT-Informatique-Graphique.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Le-ravin-de-corboeuf-IUT-Informatique-Graphique.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Le-ravin-de-corboeuf-IUT-Informatique-Graphique%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 Appelé par certains le Colorado français, « à juste titre ! » s’enthousiasme Rémi. Le ravin longe l’ancienne voie ferrée aujourd’hui réaménagée pour la randonnée. « L’avancée est facile, et le temps passe si vite ! ». Ce panorama est accessible sans peine en voiture depuis le hameau de Chastel ou à pied depuis Rosière. « Pour moi, il est sans doute le lieu le plus ressourçant après une semaine de travail intense. » nous conseille-t-il.
 
 ### Festival Le Puy de Lumières : quand la ville et les cœurs s’illuminent !
 
-![](img/Les-Puy-de-Lumieres-IUT-Informatique-Graphique%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Les-Puy-de-Lumieres-IUT-Informatique-Graphique.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Les-Puy-de-Lumieres-IUT-Informatique-Graphique.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Les-Puy-de-Lumieres-IUT-Informatique-Graphique%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 Chaque été à la nuit tombée, la ville du Puy-en-Velay prend les couleurs de l’arc-en-ciel. Des spectacles de lumières, différents d’une année à l’autre, sont projetés directement sur les bâtiments historiques de la ville. « Cela donne à nos soirées estivales une dimension féérique » nous confie Alban. « Je recommande vivement cette expérience incroyable ! »
 
@@ -26,7 +45,17 @@ Chaque été à la nuit tombée, la ville du Puy-en-Velay prend les couleurs de 
 
 ### Des restaurants pour tous les goûts et les budgets
 
-![](img/exquisitos-768x402%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/exquisitos-768x402.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/exquisitos-768x402.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/exquisitos-768x402%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 « Moi, j’aime les repas gras et les fastfoods » nous confie Corentin. « La savoyarde de chez Pizza Cosy ou encore les tacos de FatherAndSon sont des plats réconfortants qu’on apprécie manger après un difficile examen d’IHM ». La vieille ville regorge aussi de restaurants et de brasseries aux mets délicieux aux prix abordables pour les étudiants ! À l’Exquisito par exemple, vous ferez l’expérience de la cuisine colombienne pour moins cher qu’un Mcdo ! Empanadas, frites de yucca et délicieuses bananes plantins servies avec le sourire et l’accent de Bogotá… On adore !
 
@@ -34,26 +63,67 @@ Chaque été à la nuit tombée, la ville du Puy-en-Velay prend les couleurs de 
 
 ### Le bois des seigneurs, un voyage dans le temps
 
-![](img/Le-bois-des-seigneurs-IUT-Informatique-Graphique%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Le-bois-des-seigneurs-IUT-Informatique-Graphique.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Le-bois-des-seigneurs-IUT-Informatique-Graphique.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Le-bois-des-seigneurs-IUT-Informatique-Graphique%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
+
 Le bois des seigneurs appartenait autrefois aux seigneurs de Polignac. En s’y promenant, on peut apercevoir les vestiges de cette époque. « Non seulement c’est l’une des randonnées les plus belles du coin mais elle est aussi très facile d’accès à pied depuis le Puy-en-Velay » nous informe Rémi. « Ce bois est vraiment sympa pour une sortie en groupe. Il est d’ailleurs souvent emprunté par les élèves de la promo informatique désireux de se vider la tête ! »]
 
 Découvrir le bois des seigneurs en [vidéo](https://www.youtube.com/watch?v=EVxPqMK1A9Q&t=197s)
 
 ### La bibliothèque : romans, mangas et supports de langages de programmation
 
-![](img/Bibliotheque-Le-Puy-en-Velay%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Bibliotheque-Le-Puy-en-Velay.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Bibliotheque-Le-Puy-en-Velay.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Bibliotheque-Le-Puy-en-Velay%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 « Pour moi, c’est LA structure incontournable du Puy ! Située à trois minutes à pied de l’IUT, c’est ici que vous trouverez tous les livres nécessaires à votre culture générale mais aussi et surtout une grande quantité de bandes dessinées et de mangas pour une pause bien méritée » nous explique Alban. « Côté programmation, vous pourrez y emprunter des livres sur la plupart des langages étudiés en cours. »
 
 ### La cascade de la Beaume, une ambiance carte postale
 
-![](img/Cascade-de-la-Beaume-IUT-Departement-Informatique%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Cascade-de-la-Beaume-IUT-Departement-Informatique.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Cascade-de-la-Beaume-IUT-Departement-Informatique.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Cascade-de-la-Beaume-IUT-Departement-Informatique%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 « La cascade de la Beaume, c’est l’emplacement parfait pour réaliser votre meilleure photo pour les réseaux sociaux. » nous précise Rémi. Ce point d’eau est accessible depuis la voie verte. Il est considéré comme l’une des plus belles chutes d’eau de la région ! « Je la trouve vraiment magnifique, elle fait partie de mes lieux favoris pour me détendre après un gros projet de programmation ! »
 
 ### Interlude, le royaume de la BD et du manga
 
-![](img/Interlude-Departement-Informatique-Graphique%20(1).jpg)
+
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/Interlude-Departement-Informatique-Graphique.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/Interlude-Departement-Informatique-Graphique.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Interlude-Departement-Informatique-Graphique%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
 
 Interlude est une petite librairie proposant une grande diversité d’ouvrages pour tous les âges. « Mon coin favori ? Les mangas et bandes dessinées adultes. L’accueil est sympa et chaleureux. Les libraires prendront plaisir à vous conseiller en fonction de vos styles de lecture et des dernières sorties. »
 

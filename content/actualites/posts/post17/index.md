@@ -35,7 +35,12 @@ La plupart des notions abordées sont mises en relation avec leurs applications 
 
 [Retrouvez l’intégralité du cours sur YouTube](https://www.youtube.com/watch?v=jlo9fYaNRjQ&list=PLZ9MvJlxMshJlqTCpFjrRnn0D_aEM_Lu7)
 
-  https://www.youtube.com/watch?v=jlo9fYaNRjQ&embeds_referring_euri=https%3A%2F%2Fig.iut-clermont.fr%2F&source_ve_path=MjM4NTE&feature=emb_title
+
+<video width="640" height="360" controls preload="none" poster="video/mqdefault.jpg">
+  <source src="video/Cours_math.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>
+
 
 Crédits vidéo :
 
@@ -45,5 +50,8 @@ Graphisme et montage : Mathieu Néhémie
 
 Musique : [](https://ig.iut-clermont.fr/news/les-67-capsules-video-issues-de-la-methode-pedagogique-alternative-imaginee-par-dominique-moncorge-enseignant-en-mathematiques-sont-desormais-en-ligne-sur-youtube/)[www.bensound.com](http://www.bensound.com/)
 
-https://vimeo.com/266872985
 
+<video width="640" height="360" controls preload="none" poster="video/mqdefault2.jpg">
+  <source src="video/988261912.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge les vidéos HTML5.
+</video>

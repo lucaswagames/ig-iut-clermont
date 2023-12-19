@@ -27,7 +27,21 @@ Grâce à l’impulsion de la nouvelle cheffe de département, Adélaïde Albouy
 *   Lors de la première année, les étudiants construisent en groupe la [**Fresque du Numérique**](https://www.fresquedunumerique.org/). Cette sensibilisation par la pédagogie active leur permet de comprendre l’impact environnemental du numérique et les actions à mettre en place pour évoluer vers un modèle plus soutenable.
 *   Lors de l’année de BUT 2, nos futurs techniciens supérieurs approfondissent leurs connaissances via des ateliers et des projets de groupe. Par exemple, ils participent à l’[**atelier « 2tonnes »**](https://www.2tonnes.org/), approche réflexive sur les bonnes pratiques pour réaliser des services numériques à l’empreinte environnementale réduite. Pour attester leurs compétences en la matière, il passe la certification « Numérique Responsable »
 *   En année trois, ils sont outillés pour écoconcevoir des services numériques.
-[![](img/Etudiante-lors-de-latelier-2tonnes-du-departement-Informatique-Graphique.jpg "Étudiante de deuxième année, promotion 2022-2023, lors de l’atelier « 2tonnes » du département Informatique Graphique")](https://ig.iut-clermont.fr/news/la-journee-portes-ouvertes-de-liut-du-puy-en-velay/)
-[![](img/Objectif-2tonnes-atteint-par-les-etudiants-du-departement-Informatique-Graphique-700x342.jpg "Objectif « 2tonnes » atteint par les étudiants du département Informatique Graphique")](https://ig.iut-clermont.fr/news/la-journee-portes-ouvertes-de-liut-du-puy-en-velay/)
+
+<figure>
+  <picture>
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Etudiante-lors-de-latelier-2tonnes-du-departement-Informatique-Graphique.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Étudiante de deuxième année, promotion 2022-2023, lors de l’atelier « 2tonnes » du département Informatique Graphique</em></figcaption>
+</figure>
+
+<figure>
+  <picture>
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/Objectif-2tonnes-atteint-par-les-etudiants-du-departement-Informatique-Graphique-700x342.jpg" loading="lazy">
+  </picture>
+  <figcaption><em>Objectif « 2tonnes » atteint par les étudiants du département Informatique Graphique</em></figcaption>
+</figure>
 
  Enfin, les étudiants participent à l’automne à un [**hackathon**](https://ig.iut-clermont.fr/news/les-journees-du-numerique-responsable-2-jours-pour-programmer-vert/), marathon de programmation, organisé par le [**Campus Région du Numérique**](https://campusnumerique.auvergnerhonealpes.fr/) où ils peuvent développer des services numériques responsables et innovants. Lors de l’édition 2022, ils y ont représenté l’IUT avec brio puisqu’ils ont occupé deux marches du podium.

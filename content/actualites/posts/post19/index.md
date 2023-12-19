@@ -20,4 +20,13 @@ Dernière date pour échanger avec les enseignants de la formation : **le samed
 
 **Les inscriptions se font en ligne sur** [**https://auversup.fr**](https://auversup.fr/)
 
-![](img/JPO_2021_bandeau_UCA_1215x441-768x279%20(1).jpg)
+<figure>
+  <picture>
+    <!-- AVIF -->
+    <source type="image/avif" srcset="img/JPO_2021_bandeau_UCA_1215x441-768x279.avif">
+    <!-- WebP -->
+    <source type="image/webp" srcset="img/JPO_2021_bandeau_UCA_1215x441-768x279.webp">
+    <!-- JPEG de repli pour les navigateurs qui ne supportent ni AVIF ni WebP -->
+    <img src="img/JPO_2021_bandeau_UCA_1215x441-768x279%20(1).jpg" loading="lazy">
+  </picture>
+</figure> 
