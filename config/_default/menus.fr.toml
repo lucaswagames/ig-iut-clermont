@@ -79,7 +79,7 @@
   weight = 40
 
 [[main]]
-  name = "Loceaux"
+  name = "Locaux"
   parent = "Nos ressources"
   weight = 10
 
