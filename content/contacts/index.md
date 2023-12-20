@@ -22,7 +22,8 @@ Téléphone : **04 71 09 90 88**
 
 **Nous suivre sur les réseaux sociaux :**
 
- [![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2021/03/Picto-Linkedin2.png)](https://www.linkedin.com/company/iut-imagerie-le-puy-en-velay) [![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2021/03/Picto-Facebook.png)](https://www.facebook.com/IUT.Informatique.Graphique/)
+ [{{< icon "linkedin" >}}](https://www.linkedin.com/company/iut-imagerie-le-puy-en-velay)
+ [{{< icon "facebook" >}}](https://www.facebook.com/IUT.Informatique.Graphique/)
 
 #### ![](https://ig.iut-clermont.fr/wp-content/uploads/sites/3/2021/03/icon-iut-puy.png)
 

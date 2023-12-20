@@ -38,16 +38,19 @@
 
 [[main]]
   name = "Formation professionnalisante"
+  pageRef ="formation_professionalisante"
   parent = "BUT"
   weight = 20
 
 [[main]]
   name = "Débouchés"
+  pageRef ="debouches"
   parent = "BUT"
   weight = 30
 
 [[main]]
   name = "Échanges universitaires"
+    pageRef ="echanges_universitaires"
   parent = "BUT"
   weight = 40
 
@@ -59,11 +62,13 @@
 
 [[main]]
   name = "Réalisations des étudiants"
+  pageRef ="realisations_des_etudiants"
   parent = "BUT"
   weight = 60
 
 [[main]]
   name = "Que sont-ils devenus ? "
+  pageRef ="que_sont_ils_devenus"
   parent = "BUT"
   weight = 70
 
