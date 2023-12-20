@@ -2,7 +2,6 @@
 title: "Actualités"
 
 cascade:
-  showDate: false
   showAuthor: false
 ---
 
