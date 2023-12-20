@@ -76,20 +76,24 @@
 
 [[main]]
   name = "Nos ressources"
+  pageRef= "nos_ressources"
   weight = 40
 
 [[main]]
   name = "Locaux"
+  pageRef="Locaux"
   parent = "Nos ressources"
   weight = 10
 
 [[main]]
   name = "Matériel"
+  pageRef="materiel"
   parent = "Nos ressources"
   weight = 20
 
 [[main]]
   name = "Humain"
+  pageRef="humain"
   parent = "Nos ressources"
   weight = 30
 
@@ -97,25 +101,30 @@
 
 [[main]]
   name = "Le Puy"
+  pageRef="le_puy"
   weight = 50
 
 [[main]]
   name = "Logements / Coût de la vie"
+  pageRef="logements_cout_de_la_vie"
   parent = "Le Puy"
   weight = 10
 
 [[main]]
   name = "Activités sportives"
+  pageRef="activites_sportives"
   parent = "Le Puy"
   weight = 20
 
 [[main]]
   name = "Activités culturelles"
+  pageRef="activites_culturelles"
   parent = "Le Puy"
   weight = 30
 
 [[main]]
   name = "Vie étudiante"
+  pageRef="vie_etudiante"
   parent = "Le Puy"
   weight = 40
 
