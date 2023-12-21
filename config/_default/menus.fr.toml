@@ -38,7 +38,7 @@
 
 [[main]]
   name = "Formation professionnalisante"
-  pageRef ="formation_professionalisante"
+  pageRef ="formation_professionnalisante"
   parent = "BUT"
   weight = 20
 
@@ -50,7 +50,7 @@
 
 [[main]]
   name = "Échanges universitaires"
-    pageRef ="echanges_universitaires"
+  pageRef ="echanges_universitaires"
   parent = "BUT"
   weight = 40
 
@@ -127,6 +127,14 @@
   pageRef="vie_etudiante"
   parent = "Le Puy"
   weight = 40
+
+
+
+[[subnavigation]]
+  name = "Tags"
+  pageRef = "tags"
+  pre = "tag"
+  weight = 10
 
 
 

@@ -2,6 +2,7 @@
 title = 'Le numérique responsable au cœur de la formation'
 date = 2022-12-30
 draft = false
+tags = ["NR"]
 +++
   
 

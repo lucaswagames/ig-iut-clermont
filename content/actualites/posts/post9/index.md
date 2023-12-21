@@ -2,6 +2,7 @@
 title = 'Un jeu en Réalité Virtuelle pour comprendre le principe de la vitesse de la lumière'
 date = 2021-09-07
 draft = false
+tags = ["Réalisation étudiant"]
 +++
 
 

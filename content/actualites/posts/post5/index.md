@@ -2,6 +2,7 @@
 title = 'Salon et Journée Portes-Ouvertes 2023 - Rencontrez nos enseignants !'
 date = 2022-12-14
 draft = false
+tags = ["JPO"]
 +++
   
 

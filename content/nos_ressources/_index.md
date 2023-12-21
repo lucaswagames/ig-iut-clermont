@@ -1,5 +1,5 @@
 ---
-title: "BUT"
+title: "Nos ressources"
 groupByYear: false
 showCards: false
 cardView: false

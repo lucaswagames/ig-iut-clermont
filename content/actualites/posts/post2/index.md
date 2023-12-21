@@ -2,6 +2,7 @@
 title = 'La Journée Portes Ouvertes de l’IUT du Puy-en-Velay'
 date = 2023-01-05
 draft = false
+tags = ["JPO"]
 +++
 
 Vous souhaitez vous renseigner sur notre BUT informatique graphique et rencontrer les professeurs et les étudiants de la formation ? À la suite du Salon [Auversup](https://www.auversup.fr) qui se tiendra du 19 au 21 janvier 2023 à Cournon, nous ouvriront les portes de notre établissement au Puy-en-Velay.

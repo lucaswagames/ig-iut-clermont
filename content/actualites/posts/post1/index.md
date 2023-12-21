@@ -2,6 +2,8 @@
 title = 'Le média DroidSoft.fr se dote d’une nouvelle application mobile grâce au travail de nos étudiants'
 date = 2023-06-13
 draft = false
+tags = ["Réalisation étudiant"]
+type = "Réalisation étudiant"
 +++
 
   

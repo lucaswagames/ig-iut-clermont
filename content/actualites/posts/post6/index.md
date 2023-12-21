@@ -2,6 +2,7 @@
 title = 'Les journées du Numérique Responsable, deux jours pour programmer vert'
 date = 2022-11-09
 draft = false
+tags = ["NR"]
 +++
   
 
