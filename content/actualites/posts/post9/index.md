@@ -3,6 +3,7 @@ title = 'Un jeu en Réalité Virtuelle pour comprendre le principe de la vitesse
 date = 2021-09-07
 draft = false
 tags = ["Réalisation étudiant"]
+type = "Réalisation étudiant"
 +++
 
 

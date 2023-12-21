@@ -3,6 +3,7 @@ title = 'Conception d’un showroom virtuel pour Stairkaze, une entreprise ponot
 date = 2022-02-24
 draft = false
 tags = ["Réalisation étudiant"]
+type = "Réalisation étudiant"
 +++
   
 

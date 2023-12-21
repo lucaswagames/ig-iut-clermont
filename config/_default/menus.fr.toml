@@ -18,16 +18,9 @@
 
 
 [[main]]
-  name = "Numérique responsable"
-  pageRef = "nr"
-  weight = 20
-
-
-
-[[main]]
   name = "BUT"
   pageRef = "but"
-  weight = 30
+  weight = 20
 
 
 [[main]]
@@ -75,6 +68,14 @@
 
 
 [[main]]
+  name = "Numérique responsable"
+  pageRef = "nr"
+  weight = 30
+
+
+
+
+[[main]]
   name = "Nos ressources"
   pageRef= "nos_ressources"
   weight = 40
@@ -92,8 +93,8 @@
   weight = 20
 
 [[main]]
-  name = "Humain"
-  pageRef="humain"
+  name = "Humaine"
+  pageRef="humaine"
   parent = "Nos ressources"
   weight = 30
 
@@ -130,14 +131,6 @@
 
 
 
-[[subnavigation]]
-  name = "Tags"
-  pageRef = "tags"
-  pre = "tag"
-  weight = 10
-
-
-
 [[footer]]
   name = "Contacts"
   pageRef ="contacts"
@@ -152,3 +145,8 @@
   name = "Chartes NR"
   pageRef ="charte_nr"
   weight = 30
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 40
