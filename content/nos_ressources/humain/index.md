@@ -6,7 +6,7 @@ showPagination = false
 
 Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l’imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n’a pas fait que survivre cinq siècles, mais s’est aussi adapté à la bureautique informatique, sans que son contenu n’en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
 
-# Enseignants chercheurs
+## Enseignants chercheurs
 
 {{< timeline >}}
 
@@ -30,7 +30,7 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
 
 Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (UMR 6602 CNRS/UCA/SIGMA), spécialisés en Informatique et en Traitement du signal, et membres d’une des 2 équipes de recherche  (Thérapies Guidées par l’Image (TGI) et Image, Systèmes de Perception, Robotique (ISPR))
 
-# Enseignants
+## Enseignants
 
 {{< timeline >}}
 
@@ -66,7 +66,7 @@ Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (
 {{</timeline >}}
 
 
-# Équipe A.M.I.E
+## Équipe A.M.I.E
 
 L’équipe A.M.I.E désigne le personnel Administratif, Médical, Informatique, et le personnel d’Entretien qui œuvrent chaque jour pour vous permettre d’étudier dans un environnement organisé, sain, serein et propice au travail. Ils vous assurent également le lien avec votre IUT de rattachement, l’IUT Clermont-Auvergne et votre Université parente, l’UCA.
 
