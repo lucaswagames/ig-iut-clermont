@@ -1,5 +1,5 @@
 +++
-title = 'Humain'
+title = 'Humaine'
 showDate = false
 showPagination = false
 +++
@@ -103,7 +103,7 @@ L’équipe A.M.I.E désigne le personnel Administratif, Médical, Informatique,
 
 {{< timeline >}}
 
-    {{< timelineItem icon="pencil" header="Personnel Administratif">}}
+    {{< timelineItem icon="A" header="Personnel administratif">}}
 
     Marie-Laure : secrétaire du département Informatique </br>
     Graphique Caroline : secrétaire « Alternance »
@@ -111,20 +111,20 @@ L’équipe A.M.I.E désigne le personnel Administratif, Médical, Informatique,
     {{< /timelineItem >}}
 
 
-    {{< timelineItem icon="heart" header="Personnel médical">}}
+    {{< timelineItem icon="M" header="Personnel médical">}}
     
     Sylvie : infirmière de l’IUT Clermont Auvergne
 
     {{< /timelineItem >}}
 
-    {{< timelineItem icon="code" header="Personnel informatique">}}
+    {{< timelineItem icon="I" header="Personnel informatique">}}
 
     Thibault : ingénieur informatique </br>
     Cédric : technicien informatique
 
     {{< /timelineItem >}}
 
-    {{< timelineItem header="Personnel d'entretien">}}
+    {{< timelineItem icon="E" header="Personnel d'entretien">}}
     
     Emilie, Christine, Françoise, Marie-Jo, Denis, Jésus et Fabien 
     sont responsables de la gestion du site, de l’entretien et du 

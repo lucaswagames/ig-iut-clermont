@@ -18,16 +18,17 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
  
 {{< timeline >}}
 
-    {{< timelineItem icon="code" header="Une passion pour l’informatique et l’image numérique." >}}
+    {{< timelineItem icon="code" subheader="Une passion pour l’informatique et l’image numérique." >}}
     
+        </br>
         {{< button href="/but/diplome" target="_self" >}}
             Voir plus
         {{< /button >}}
 
     {{< /timelineItem >}}
 
-    {{< timelineItem icon="graduation-cap" header="La pédagogie active au cœur des apprentissages avec des travaux pratiques en petits groupes et des projets concrets dès la première année.">}}
-
+    {{< timelineItem icon="graduation-cap" subheader="La pédagogie active au cœur des apprentissages avec des travaux pratiques en petits groupes et des projets concrets dès la première année.">}}
+        </br>
         {{< button href="/but/realisations_des_etudiants" target="_self" >}}
             Voir plus
         {{< /button >}}
@@ -35,8 +36,8 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
     {{< /timelineItem >}}
 
 
-    {{< timelineItem icon="lightbulb" header="Un engagement afin de favoriser l’autonomie et la préparation au monde professionnel.">}}
-
+    {{< timelineItem icon="lightbulb" subheader="Un engagement afin de favoriser l’autonomie et la préparation au monde professionnel.">}}
+        </br>
         {{< button href="/but/formation_professionnalisante" target="_self" >}}
             Voir plus
         {{< /button >}}
