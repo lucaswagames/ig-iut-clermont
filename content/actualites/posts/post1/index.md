@@ -30,7 +30,7 @@ L’équipe en charge du pojet était composée de : [Eliot Bianchin](https://w
     <!-- AVIF -->
     <source type="image/avif" srcset="img/Capture-decran-du-site-internet-de-DroidSoft-2.avif">
     <!-- JPEG de repli pour les navigateurs qui ne supportent pas AVIF -->
-    <img src="img/Capture-decran-du-site-internet-de-DroidSoft-2.jpg" loading="lazy">
+    <img src="img/Capture-decran-du-site-internet-de-DroidSoft-2.jpg" loading="lazy" alt="description de l'image">
   </picture>
   <figcaption><em>Capture d’écran du site internet du média DroidSoft</em></figcaption>
 </figure>

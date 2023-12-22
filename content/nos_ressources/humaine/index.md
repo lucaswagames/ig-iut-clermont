@@ -12,28 +12,28 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
 
     {{< timelineItem icon="search" header="Adélaïde Albouy-Kissi" badge="informatique" subheader="cheffe de département, maitre de conférences en informatique appliquée" >}}
 
-    {{< figure src="/img/enseignants/adelaide.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
 
     {{< timelineItem icon="search" header="Benjamin Albouy-Kissi" badge="3D" subheader="maitre de conférences en informatique appliquée, développement 3D">}}
 
-    {{< figure src="/img/enseignants/benjamin.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
 
     {{< timelineItem icon="search" header="Vincent Sauvage" badge="3D" subheader="maitre de conférences en informatique, développement 3D">}}
 
-    {{< figure src="/img/enseignants/vincent.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
 
     {{< timelineItem icon="search" header="Antoine Vacavant" badge="IA" subheader="professeur des Universités en informatique, intelligence Artificielle (IA)">}}
 
-    {{< figure src="/img/enseignants/antoine.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
     
     {{< /timelineItem >}}
 
@@ -49,7 +49,7 @@ Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (
     {{< timelineItem icon="graduation-cap" header="Pierre-Yves Bischoff" badge="Informatique et Mathématiques" >}}
 
     {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
-    {{< figure src="/img/enseignants/pierre-yves.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
@@ -57,7 +57,7 @@ Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (
     {{< timelineItem icon="graduation-cap" header="Nazek El Koujha" badge="Mathématiques" >}}
 
     {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
-    {{< figure src="/img/enseignants/nazek.png">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
@@ -65,7 +65,7 @@ Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (
     {{< timelineItem icon="graduation-cap" header="Kristen Garnier" badge="Programmation Web" >}}
 
     {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
-    {{< figure src="/img/enseignants/kristen.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
@@ -73,23 +73,23 @@ Les enseignants chercheurs de l’IUT sont tous membres de l’Institut Pascal (
     {{< timelineItem icon="graduation-cap" header="Cécile Paulhiac" badge="Communication" >}}
 
     {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
-    {{< figure src="/img/enseignants/pauliac.jpg">}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
 
     {{< timelineItem icon="graduation-cap" header="Isabelle Portail" badge="Production 3D" >}}
 
-    {{< lead >}}" When life gives you lemons, make lemonade. "{{< /lead >}}
-    {{< figure src="/img/enseignants/isabelle.jpg">}}
+    {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
 
 
     {{< timelineItem icon="graduation-cap" header="Nathalie HOUGHTON" badge="Anglais" >}}
 
-    {{< lead >}}" When life gives you lemons, make lemonade. "{{< /lead >}}
-    {{< figure src="/img/enseignants/nathalie.jpg">}}
+    {{< lead >}}When life gives you lemons, make lemonade.{{< /lead >}}
+    {{< figure src="/img/enseignants/profile.png" alt="Photo de profil">}}
 
     {{< /timelineItem >}}
     

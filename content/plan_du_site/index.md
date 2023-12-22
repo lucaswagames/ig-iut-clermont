@@ -4,4 +4,45 @@ showDate = false
 showPagination = false
 +++
 
-Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l’imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n’a pas fait que survivre cinq siècles, mais s’est aussi adapté à la bureautique informatique, sans que son contenu n’en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+## [Actualités](../actualites)
+
+</br>
+<hr>
+</br>
+
+## [BUT](../but) 
+
+### [Présentation du dîplome](../but/diplome)
+### [Formation professionnalisante](../but/formation_professionnalisante)
+### [Débouchés](../but/debouches)
+### [Échanges universitaires](../but/admission)
+### [Admission](../but/admission)
+### [Réalisations des étudiants](../but/realisations_des_etudiants)
+### [Que sont-ils devenus ?](../but/que_sont_ils_devenus)
+
+</br>
+<hr>
+</br>
+
+## [Numérique responsable](../nr)
+
+</br>
+<hr>
+</br>
+
+## [Nos ressources](../nos_ressources)
+
+### [Locaux](../nos_ressources/locaux)
+### [Matériel](../nos_ressources/materiel)
+### [Humaine](../nos_ressources/humaine)
+
+</br>
+<hr>
+</br>
+
+## [Le Puy](../le_puy)
+
+### [Logements / Coût de la vie](../le_puy/logements_cout_de_la_vie/)
+### [Activités sportives](../le_puy/activites_sportives)
+### [Activités culturelles](../le_puy/activites_culturelles)
+### [Vie étudiante](../le_puy/vie_etudiante)
