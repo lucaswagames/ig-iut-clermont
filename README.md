@@ -23,3 +23,5 @@ puis pour lancer le sire lancer la commander :
 
 hugo server 
 
+- Pour modifier le site, ce référé a la documentation présente dans le git au même niveau que ce readme
+
